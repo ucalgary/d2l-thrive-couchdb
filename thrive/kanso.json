@@ -1,0 +1,22 @@
+{
+	"name": "thrive",
+	"version": "0.0.1",
+	"description": "Views for Thrive",
+	"modules": [
+		"lib"
+	],
+	"dust": {
+                "templates": "templates"
+        },
+        "duality": {
+
+        },
+	"dependencies": {
+		"modules": null,
+		"properties": null,
+		"dust": null,
+                "duality": null,
+                "duality-dust": null
+	},
+	"load": "lib/app"
+}
